@@ -1,0 +1,7 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
